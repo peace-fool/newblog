@@ -138,8 +138,7 @@ This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-Jek
    1. Bananas
       - Cavendish
       - Red
-1. Vegetables
-
+1. Vegetable
 ***
 
 ### Tables
