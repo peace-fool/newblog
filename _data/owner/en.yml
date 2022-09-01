@@ -49,7 +49,7 @@ meta_common_description: "Your meta description."
 # comment to remove any contact item
 contacts:
   - github: "peace-fool"
-  - email: "utkarsh.c137@gmail.com"
+  - email: "utkarsh.c137@gmail.com?subject=NoFool"
   - linkedin: "utkarsh-py"
   #- twitter: ""
   #- instagram: ""
@@ -63,9 +63,9 @@ disqus_shortname: ""
 
 # if no id is provided, this feature will be disabled.
 # make sure your environment does not match with google.analytics.ignore in _data/conf/main.yml
-google_analytics_id: ""
+google_analytics_id: "G-GTPQRVRV1B"
 
 # there are different ways to verify web page. One is adding this as meta into html.
 # make sure you set meta.google_site_verify: true in _data/conf/main.yml
 # make sure your environment does not match with google.site_verification.ignore in _data/conf/main.yml
-google_site_verification: ""
+google_site_verification: "S7ah6vkDRsG_9NzE5NHFngCVpUhL1dDcXuhADcjdFdE"

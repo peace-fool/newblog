@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":luffy.png"
+img: "/assets/img/default/dp.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -40,9 +40,8 @@ img: ":luffy.png"
 
 Just a guy from India who is super into infosec everything
 
-To get in touch, drop a mail [here](utkarsh.c137@gmail.com)
+To get in touch, drop a mail [here](mailto:utkarsh.c137@gmail.com?subject=NotFool)
 
-Subject: "Not-Fool"
 
 
 
